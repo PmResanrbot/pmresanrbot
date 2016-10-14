@@ -231,7 +231,7 @@ https://telegram.me/storebot?start=PvResanCrBot
 و گزینه ⛤⛤⛤⛤⛤ را انتخاب کنید
 .";
     
-    $bot_url    = "https://api.telegram.org/bot209166752:AAG_5qkopYvcjBF1lLt1UraNsAdL0JdjkUs/"; 
+    $bot_url    = "https://api.telegram.org/bot209166752:AAHFiWZxPsn5AAh3hQbtcrhTA1_o0zO2jIw/"; 
     $url        = $bot_url . "sendMessage?chat_id=" . $chat_id ; 
 
 $post_fields = array('chat_id'   => $chat_id, 
@@ -317,7 +317,7 @@ https://telegram.me/storebot?start=PvResanCrBot
 و گزینه ⛤⛤⛤⛤⛤ را انتخاب کنید
 .";
     
-    $bot_url    = "https://api.telegram.org/bot209166752:AAG_5qkopYvcjBF1lLt1UraNsAdL0JdjkUs/"; 
+    $bot_url    = "https://api.telegram.org/bot209166752:AAHFiWZxPsn5AAh3hQbtcrhTA1_o0zO2jIw/"; 
     $url        = $bot_url . "sendMessage?chat_id=" . $chat_id ; 
 
 $post_fields = array('chat_id'   => $chat_id, 
